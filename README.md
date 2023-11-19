@@ -1,2 +1,3 @@
 # reactor-samples
-simple reactor functions, Mono, Flux, MathFluy
+
+simple reactor functions, Mono, Flux, MathFlux
